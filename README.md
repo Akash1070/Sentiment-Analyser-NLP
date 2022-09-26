@@ -1,4 +1,4 @@
-# **Sentiment-Analyser Using Natural Language Processing**
+# **Sentiment Analyser Using Natural Language Processing**
 
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)

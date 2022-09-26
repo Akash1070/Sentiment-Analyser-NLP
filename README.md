@@ -12,7 +12,7 @@ VENU: https://drive.google.com/drive/folders/1__HwpbT-vDuxJeiD70e8Dxx47kbVvVVc?u
 • Please do ⭐ the repository, if it helped you in anyway.
 
 ## Preview
-![Click HERE To View](https://github.com/Akash1070/Covid-19-Dasboard-for-Berlin-City/blob/main/Preview.png)
+![Click HERE To View](https://github.com/Akash1070/Sentiment-Analyser-NLP/blob/main/Screenshot.png)
 
 
 ## Authors
